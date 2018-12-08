@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1008793122267",
+    "firebase_url": "https://itbara3-dc32d.firebaseio.com",
+    "project_id": "itbara3-dc32d",
+    "storage_bucket": "itbara3-dc32d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008793122267:android:9d4d3c439ec8829e",
+        "android_client_info": {
+          "package_name": "com.denta.etbar3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008793122267-0mupmj6scv1jee4f35ti58omb1ilc5m0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.denta.etbar3",
+            "certificate_hash": "a3144043a6e9d42ace572ede8077b14c58ee5841"
+          }
+        },
+        {
+          "client_id": "1008793122267-1lqosh9fi5q1j4cr25nicud9h5jnl844.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcLNNY8ERh74brXped96hMwzGsB8wGYnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008793122267-1lqosh9fi5q1j4cr25nicud9h5jnl844.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

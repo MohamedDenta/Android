@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اتبرع</string>
+    <string name="search_word">ابحث برقم الهاتف </string>
+    <string name="add_name">اكتب اسما</string>
+    <string name="add_phone">اكتب رقما</string>
+    <string name="add_class">اكتب فصيلة دم , O+</string>
+    <string name="item_text">543545</string>
+    <string name="menu_item_contact">اتصل ب</string>
+    <string name="menu_item_delete">حذف</string>
+    <string name="your_email">أدخل بريدك الالكتروني </string>
+    <string name="your_password">أدخل كلمة السر</string>
+    <string name="login">دخول</string>
+    <string name="txt_not_registered">ليس لدي حساب .</string>
+    <string name="signup">تسجيل</string>
+    <string name="txt_phone_login">دخول بواسطة رقم الهاتف</string>
+    <string name="txt_email">بريد الكتروني</string>
+    <string name="pasword">كلمة مرور</string>
+    <string name="lst_donation">تاريخ اخر تبرع</string>
+    <string name="cancel">الغاء</string>
+    <string name="Msg_add_success">تمت الاضافة بنجاح</string>
+    <string name="Msg_add_fail">خطأ بالإضافة </string>
+    <string name="Msg_Waiting">انتظر..</string>
+    <string name="Msg_missed">بعض البيانات ناقصة</string>
+    <string name="Msg_call_permession">جهازك لا يسمح للتطبيق باجراء المكالمة …</string>
+    <string name="Msg_error_retriev">خطأ باسترجاع البيانات </string>
+    <string name="Msg_empty_list">لا يوجد اشخاص بهذه الفصيلة </string>
+    <string name="menu_item_edit">تعديل</string>
+    <string name="Msg_edit_success">تعديل ناجح</string>
+    <string name="Msg_delete_success">تم الحذف بنجاح</string>
+    <string name="verification_code">الرقم التأكيدي</string>
+    <string name="close_account">غلق حسابي</string>
+    <string name="exit">خروج</string>
+    <string name="Msg_account_deleted">تم حذف حسابك بنجاح</string>
+    <string name="Msg_account_deleted_fail">حدث خطأ</string>
+    <string name="Msg_back_exit">اضغط زر الرجوع مرة أخري للخروج</string>
+    <string name="Msg_email_invalid">بريد خاطئ ..</string>
+    <string name="Msg_network_error">خطأ بالشبكة</string>
+    <string name="Msg_bt_invalid">فصيلة دم خاطئة</string>
+    <string name="Msg_phone_invalid">رقم هاتف خاطئ</string>
+    <string name="Msg_notconnect">اتصل بالانترنت </string>
+    <string name="WIFI">واي فاي</string>
+    <string name="DATA">بيانات</string>
+</resources>

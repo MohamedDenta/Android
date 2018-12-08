@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Hayah</string>
+    <string name="search_word">enter phone number to search</string>
+    <string name="add_name"> name</string>
+    <string name="add_phone"> phone</string>
+    <string name="add_class"> blood type , O+</string>
+    <string name="item_text">543545</string>
+    <string name="menu_item_contact">contact</string>
+    <string name="menu_item_delete">delete</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="your_email">your email</string>
+    <string name="your_password">your password</string>
+    <string name="login">login</string>
+    <string name="txt_not_registered">Not Registered Yet.</string>
+    <string name="txt_phone_login">Login With Phone Number</string>
+    <string name="txt_email">email</string>
+    <string name="signup">register</string>
+    <string name="pasword">password</string>
+    <string name="lst_donation">Last Donation Date</string>
+    <string name="cancel">cancel</string>
+    <string name="Msg_add_success">Added Successfully</string>
+    <string name="Msg_add_fail">Error Adding Failed</string>
+    <string name="Msg_Waiting">Waiting..</string>
+    <string name="Msg_missed">Some data is missed</string>
+    <string name="Msg_call_permession">Phone Call Permission needed …</string>
+    <string name="Msg_error_retriev">error in retrieving data</string>
+    <string name="Msg_empty_list">no one has this blood type </string>
+    <string name="menu_item_edit">edit</string>
+    <string name="Msg_edit_success">edit successfully ..</string>
+    <string name="Msg_delete_success">delete successfully ..</string>
+    <string name="verification_code">verification code</string>
+    <string name="Msg_account_deleted">User account deleted.</string>
+    <string name="close_account">close my account</string>
+    <string name="exit">exit</string>
+    <string name="Msg_account_deleted_fail">error occured</string>
+    <string name="Msg_back_exit">Please click BACK again to exit</string>
+    <string name="Msg_email_invalid">Invalid email ..</string>
+    <string name="Msg_network_error">network error</string>
+    <string name="Msg_bt_invalid">invalid blood type</string>
+    <string name="Msg_phone_invalid">invalid phone number</string>
+    <string name="Msg_notconnect">connect to internet</string>
+    <string name="WIFI">wifi</string>
+    <string name="DATA">data</string>
+
+
+</resources>
