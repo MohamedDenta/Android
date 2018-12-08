@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_yourSelf"
+          android:title="@string/your_self"/>
+    <item android:id="@+id/action_yourPhoneX"
+          android:title="@string/your_phone_x"/>
+    <item android:id="@+id/action_yourPhoneO"
+        android:title="@string/your_phone_o"/>
+    <item android:id="@+id/action_yourFriend"
+          android:title="@string/your_friend"/>
+</menu>

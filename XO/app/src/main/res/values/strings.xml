@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XO</string>
+    <string name="reset">reset</string>
+    <string name="your_self">Your Self</string>
+    <string name="your_phone_x">Your PhoneX</string>
+    <string name="your_phone_o">Your PhoneO</string>
+    <string name="your_friend">Your Friend</string>
+    <string name="play">play</string>
+</resources>
